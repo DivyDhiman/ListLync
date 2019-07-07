@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d9d9d9</color>
+    <color name="colorPrimaryDark"> #d9d9d9</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkRed">#8B0000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack1">#737373</color>
+    <color name="colorLightBlack">#bfbfbf</color>
+    <color name="colorGrey">#d9d9d9</color>
+    <color name="colorDarkGrey">#999999</color>
+    <color name="colorLightGreen">#65e1a1</color>
+    <color name="rating_select_color">#f1c40f</color>
+
+    <color name="transparent_color">#80000000</color>
+
+    <color name="colorRed">#d01d21</color>
+    <color name="passwordRed">#fe0002</color>
+    <color name="colorRed2">#be1c1f</color>
+    <color name="colorgreen">#2bff00</color>
+    <color name="coloroff_black3">#e9e0e1</color>
+
+
+    <color name="color_login">#dc6c6f</color>
+    <color name="signup_btn_bg">#d01d21</color>
+    <color name="off_black">#8f8f8f</color>
+    <color name="off_black_2">#717171</color>
+    <color name="strip_color">#d6171a</color>
+    <color name="home_car_box">#f9e9ea</color>
+    <color name="back_ground_light_gray">#dedede</color>
+    <color name="car_sel_color">#e37f7d</color>
+    <color name="calender_bottom">#edebec</color>
+    <color name="background_search_group">#c2c1c7</color>
+    <color name="light_blue">#67aedd</color>
+    <color name="light_gray_2">#efefef</color>
+
+    <color name="add_member_color">#bf1b1e</color>
+
+<!--
+    <color name="colorPrimary">#dedede</color>    -->
+
+    <color name="date_new">#585858</color>
+    <color name="date_previous">#a4a4a4</color>
+    <color name="unselect_pick_drop">#f17e81</color>
+
+    <color name="newWhite">#fefafa</color>
+
+
+    <color name="color_blue">#138cce</color>
+    <color name="default_text_color">#777777</color>
+    <color name="white_transparency">#99FFFFFF</color>
+    <color name="white_transparency_light">#26FFFFFF</color>
+
+    <color name="tool_bar_blue">#1991d0</color>
+    <color name="tab_unselector">#80c2e6</color>
+    <color name="color_green">#33bc6a</color>
+    <color name="color_gray">#ebebeb</color>
+    <color name="dotted_line_gray">#c2c5cc</color>
+
+
+</resources>

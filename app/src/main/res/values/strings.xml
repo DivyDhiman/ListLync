@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">ListLync</string>
+    <string name="home_name">Home</string>
+    <string name="saved_name">Saved</string>
+    <string name="filter_name">Filter</string>
+    <string name="sort_name">Sort</string>
+    <string name="forsale_childfragment_name">For Sale</string>
+    <string name="forrent_childfragment_name">For Rent</string>
+
+</resources>
